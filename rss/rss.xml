@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+	<channel>
+
+		<title>Ankh-Morpork news</title>
+		<link>https://rawgit.com/jemys89/news/master/index.html</link>
+		<description>The first cheap-enough-for-everyone newspaper of Ankh-Morpork.</description>
+		<item>
+			<title>Las cuatro claves del fichaje de Vinicius Junior por el Real Madrid</title>
+			<link>https://rawgit.com/jemys89/news/master/news/news1.html</link>
+			<description>
+				Millennial sobradamente preparado. "Neymar bis" como definición gráfica. Rápido, incisivo, ágil y audaz. Vinicius no tiene miedo,
+         desafía al defensor y lo encara sin temor alguno al derribo. Diestro, desequilibrante enfilando la portería adversaria a pierna
+         cambiada.
+			</description>
+
+		</item>
+
+		<item>
+			<title>Un gol de Ramos en el último minuto</title>
+			<link>https://rawgit.com/jemys89/news/master/news/news2.html</link>
+			<description>
+				Sergio Ramos volvió a aparecer cuando más lo necesitaba su equipo. Tras el gol de Dries Mertens en la primera mitad, el Real Madrid sufría de lo lindo y veía como la eliminatoria ante el Nápoles corría serio peligro. Sin embargo su capitán rescató de nuevo a su equipo marcando un gol balsámico que encarriló el pase de los blancos a cuartos de final de la Champions. Estos son algunos de sus goles más memorables:
+			</description>
+
+		</item>
+
+	</channel>
+</rss>
