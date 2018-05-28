@@ -19,7 +19,7 @@ function mostrarNombres(data){
 	cargas++;
 		$.each(data, function(i, nombre){
 			if (cargas<=maxcargas){
-				$("#page").append('<div class="row"><div class="col-sm-12" id="News"><div class="noticias"><header class="title"><a href="news1.html" target="_blank"><h2>'+nombre.title+'</h2></a></header><article><h3>'+nombre.cuerpoNoticia+'</h3></article><div  class="imagenews"><img class="img-responsive img-thumbnail" src="'+nombre.image+'" alt=""></div><div class="date"><h4>'+nombre.date+'</h4></div></div></div></div>');	
+				$("#page").append('<div class="row"><div class="col-sm-12" id="News"><div class="noticias"><header class="title"><h2>'+nombre.title+'</h2></header><article><h3>'+nombre.cuerpoNoticia+'</h3></article><div  class="imagenews"><img class="img-responsive img-thumbnail" src="'+nombre.image+'" alt=""></div><div class="date"><h4>'+nombre.date+'</h4></div></div></div></div>');	
 			}
 		});
 }
