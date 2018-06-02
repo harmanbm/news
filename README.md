@@ -2,6 +2,13 @@
 
 https://rawgit.com/harmanbm/news/master/index.html
 
+# Contenido del proyecto
+Hay 3 paginas html de noticias. Uno que es index.html que tiene 3 noticias cargadas y las primeras dos son de las otras 2 paginas html.
+Hay un fichero css.
+Hay un fichero javascript.
+Hay 2 ficheros json que llevan otras noticias.
+Y hay un fichero rss.
+
 # Contenido de la pagina
 --> Navigation Bar / Menu = Hay link del pagina index y otras dos paginas mas de noticias.
 
@@ -22,3 +29,4 @@ https://github.com/harmanbm/news/blob/master/imagesversions/desktop.jpg
 # Mobile Vesion/Modo movil
 ![GitHub Logo](/imagesversions/movil.jpg)
 https://github.com/harmanbm/news/blob/master/imagesversions/movil.jpg
+
