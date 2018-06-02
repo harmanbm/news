@@ -16,7 +16,9 @@ https://rawgit.com/harmanbm/news/master/index.html
 --> Footer/Pie de la pagina = Abajo del todo esta posisionado y lleva copyrigts, año, modo de contactar, etc....
 
 # Desktop version/Modo escritorio
+![GitHub Logo](/imagesversions/desktop.jpg)
 https://github.com/harmanbm/news/blob/master/imagesversions/desktop.jpg
 
 # Mobile Vesion/Modo movil
+![GitHub Logo](/imagesversions/movil.jpg)
 https://github.com/harmanbm/news/blob/master/imagesversions/movil.jpg
