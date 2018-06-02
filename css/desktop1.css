@@ -102,6 +102,12 @@ article
 		margin: 40px auto;
 		text-align: center;
 	}
+	
+	#botn{
+		margin-top: 15px;
+		margin-bottom: 15px;
+	}
+	
 	#youtube{
 		margin-top: 20px;
 		margin-bottom: 20px;
